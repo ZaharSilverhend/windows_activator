@@ -9,7 +9,7 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   https://github.com/ZaharSilverhend/windows_activator
+   git clone https://github.com/ZaharSilverhend/windows_activator.git
    ```
 
 2. **Перейдите в каталог с исполняемым файлом:**
