@@ -17,6 +17,7 @@ git clone https://github.com/your-username/Console-Horror.git
    \windows_activator-main\windows activator\x64\Debug\
 ```
 4. Зарустить .exe файл от имени администратора:
+
 ![image](https://github.com/ZaharSilverhend/windows_activator/assets/153616076/e5dd694d-a941-43e6-ba5b-d59c4acdb36d)
 
 После этого ваш windows будут активирован.
