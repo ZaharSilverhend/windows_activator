@@ -1,7 +1,7 @@
 # Windows Activator
 
 ## Описание
-**Windows Activator** - это мощный инструмент для активации различных версий операционных систем Windows (10-11). Разработанный с использованием современного языка программирования [C++].
+**Windows Activator** - это инструмент для активации различных версий операционных систем Windows (10-11). Разработанный с использованием современного языка программирования [C++].
 
 ## Установка
 
@@ -9,7 +9,7 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/your-username/windows_activator.git
+   git clone https://github.com/your-username/windows_activator.git](https://github.com/ZaharSilverhend/windows_activator
    ```
 
 2. **Перейдите в каталог с исполняемым файлом:**
