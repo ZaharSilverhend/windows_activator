@@ -18,11 +18,13 @@
    ```
 
 3. **Запустите .exe файл от имени администратора.**
-   - Нажмите правой кнопкой мыши на файле `WindowsActivator.exe`.
+
+      ![Windows Activator](https://github.com/ZaharSilverhend/windows_activator/assets/153616076/9fb55a7a-c7ff-4965-b5a5-8a19e25e4d0b)
+
+   - Нажмите правой кнопкой мыши на файле `windows activator.exe`.
    - Выберите "Запуск от имени администратора".
    - Пройдите по инструкциям на экране для активации вашей операционной системы.
 
-![Windows Activator](https://github.com/ZaharSilverhend/windows_activator/assets/153616076/9fb55a7a-c7ff-4965-b5a5-8a19e25e4d0b)
 
 **После запуска файла откроются три окна:**
 
