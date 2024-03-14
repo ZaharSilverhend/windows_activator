@@ -1,4 +1,5 @@
 # windows_activator
+
 ## Описание
 windows_activator - это активатор различных версий windows(10-11) разработанный с использованием языка программирования [C++] (версия 14.38.33135)..
 C:\Users\не-кто\Downloads\windows_activator-main (1).zip\windows_activator-main\windows activator\x64\Debug
@@ -20,4 +21,4 @@ git clone https://github.com/your-username/Console-Horror.git
 
 ![image](https://github.com/ZaharSilverhend/windows_activator/assets/153616076/9fb55a7a-c7ff-4965-b5a5-8a19e25e4d0b)
 
-После этого ваш windows будут активирован.
+После этих шагов ваш windows будут активирован.
